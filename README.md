@@ -11,3 +11,5 @@
 An Ivy League professor explains chaos theory, the prisoner's dilemma, and why math isn't really boring http://www.businessinsider.com/steven-strogatz-interview-on-math-education-2016-6
 ## Math material
 * Exploring Precalculus<br>http://wmueller.com/precalculus/index.html
+## Circles
+* Peter Congdon <br>http://webspace.qmul.ac.uk/pcongdon/
