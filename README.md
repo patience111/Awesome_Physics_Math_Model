@@ -13,3 +13,5 @@ An Ivy League professor explains chaos theory, the prisoner's dilemma, and why m
 * Exploring Precalculus<br>http://wmueller.com/precalculus/index.html
 ## Circles
 * Peter Congdon <br>http://webspace.qmul.ac.uk/pcongdon/
+## Statistics Resource
+* OpenIntro statistics<br>https://www.openintro.org/stat/videos.php
